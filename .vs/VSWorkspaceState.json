@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ups-game",
+    "\\wp",
+    "\\wp\\wp-content",
+    "\\wp\\wp-content\\themes",
+    "\\wp\\wp-content\\themes\\epic",
+    "\\wp\\wp-content\\themes\\epic\\assets",
+    "\\wp\\wp-content\\themes\\epic\\assets\\favicon",
+    "\\wp\\wp-includes",
+    "\\wp\\wp-includes\\css\\dist",
+    "\\wp\\wp-includes\\css\\dist\\block-library"
+  ],
+  "SelectedNode": "\\wp\\wp-content\\themes\\epic\\assets\\favicon\\browserconfig.xml",
+  "PreviewInSolutionExplorer": false
+}
